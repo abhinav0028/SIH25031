@@ -1,0 +1,45 @@
+.services-page {
+  display: flex;
+  gap: 1.5rem;
+  padding: 1.5rem;
+}
+
+.services-box {
+  flex: 2;
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 10px;
+  border: 1px solid #ddd;
+}
+
+.service-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 1rem 0;
+  background: #f9fafb;
+}
+
+.service-card h3 {
+  margin-bottom: 0.5rem;
+}
+
+.service-card a {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.preview-box {
+  flex: 1;
+  background: #fff;
+  padding: 1rem;
+  border-radius: 10px;
+  border: 1px solid #ddd;
+}
+
+.tag {
+  color: gray;
+  font-style: italic;
+  margin-top: 10px;
+}

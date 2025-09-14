@@ -1,0 +1,18 @@
+.learn {
+  background-color: #f9f9f9;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.learn h3 {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.learn p {
+  max-width: 600px;
+  margin: auto;
+  color: #555;
+  margin-bottom: 24px;
+}
